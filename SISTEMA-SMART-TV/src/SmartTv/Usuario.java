@@ -1,4 +1,4 @@
-import java.awt.image.SampleModel;
+package SmartTv;
 
 public class Usuario {
 
@@ -50,5 +50,6 @@ public class Usuario {
 		
 		
 	}
+
 
 }
